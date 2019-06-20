@@ -4,3 +4,5 @@ A DIY USB-UART adapter for working with devices which need such isolation. Great
 
 You can read more about it:
 https://daumemo.com/diy-galvanically-isolated-usb-uart-adapter/
+
+Thing: https://www.thingiverse.com/thing:3703276
